@@ -22,3 +22,25 @@ print(listB)
 # extend a list 
 listB.extend(listA)
 print(listB)
+
+# remove specified item 
+items = ['Duy', 'Khac', 1]
+items.remove(1)
+print(items)
+
+# remove specified index 
+items.pop(1)
+print(items)
+
+# del keyword
+newList = [1, 2, 3, 4, 5]
+del newList[0]
+print(newList)
+
+# del completely list, can't reuse this list
+# del newList
+# another way, but clear() method return an empty list
+
+newList.clear()
+print(newList)
+
