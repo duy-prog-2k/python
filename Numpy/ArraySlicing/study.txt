@@ -1,0 +1,7 @@
+Cắt mảng trong python có nghĩa là lấy phần tử từ một chỉ mục nhất định đến chỉ mục nhất định khác 
+Chúng ta có thể truyền như sau để cắt dữ liệu [start:end] 
+Chúng ta cũng có thể định nghĩa bước nhảy (step) [start:end:step] 
+Nếu không truyền vào thì mặc định start sẽ là 0 
+Nếu không truyền vào end thì mặc định end sẽ được gán bằng chiều dài của mảng 
+Nếu không truyền vào step thì mặc định step sẽ bằng 1 
+Chú ý: Kết quả của việc cắt mảng sẽ bao gồm chỉ mục start nhưng sẽ không có chỉ mục end 

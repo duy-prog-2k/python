@@ -1,0 +1,2 @@
+Numpy là một thư viện của python để làm việc với mảng. 
+Nó cũng có các chức năng để làm việc với đại số tuyến tính và ma trận 

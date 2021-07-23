@@ -1,0 +1,18 @@
+- Các kiểu dữ liệu của python 
+1. strings - được sử dụng để đại diện dữ liệu text, text sẽ nằm trong cặp dấu nháy '' ""main.py
+2. integer - được sử dụng để đại diện số nguyên  
+3. float - được sử dụng để đại diện số thực 
+4. boolean - được sử dụng để đại diện True hoặc False
+5. complex - được sử dụng để đại diện số phức 
+Một số extra data type trong NumPy 
+# i - integer
+# b - boolean
+# u - unsigned integer
+# f - float
+# c - complex float
+# m - timedelta
+# M - datetime
+# O - object
+# S - string
+# U - unicode string
+# V - fixed chunk of memory for other type ( void )

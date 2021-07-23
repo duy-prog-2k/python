@@ -1,0 +1,3 @@
+- Shape của một mảng là số phần tử trong mỗi chiều 
+- Numpy cung cấp 1 thuộc tính gọi là shape để trả về một tuple với mỗi chỉ mục có số phần tử tương ứng 
+

@@ -1,0 +1,8 @@
+Chiều của mảng là mức độ sâu của mảng 
+Mảng 0-D hoặc scalars chỉ có một phần tử trong một mảng. 
+Mỗi giá trị trong mảng là một 0-D array
+Mảng 1-D là một mảng có các mảng 0-D là các phần tử của nó được gọi là mảng đơn chiều hoặc 1-D array 
+Mảng 2-D là một mảng có các mảng 1-D là các phần tử của nó 
+
+Để kiểm tra chiều của mảng ta sử dụng attribute ndim 
+Ví dụ: a.ndim 

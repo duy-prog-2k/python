@@ -1,0 +1,4 @@
+- Sự khác biệt giữa copy và view
+# Sự khác biệt chính giữa copy và view là copy sẽ tạo một mảng mới còn view chỉ là 1 bản xem của mảng gốc 
+# khi ta tác động đến mảng copy thì nó sẽ không gây ảnh hưởng đến mảng gốc 
+# ngược lại nếu tác động lên mảng gốc sẽ ảnh hưởng đến view 
