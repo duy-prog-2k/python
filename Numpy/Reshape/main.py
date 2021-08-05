@@ -10,3 +10,9 @@ print(newArr)
 
 newArr = arr.reshape(2, 3, 2) 
 print(newArr)
+
+# convert multiple dimension arr to 1d array 
+arr_2d =  np.array([[1, 2, 3], [3, 4, 5]])
+
+new_arr = arr_2d.reshape(-1)
+print(new_arr)
