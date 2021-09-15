@@ -20,7 +20,6 @@ i = 0
 while i < len(fruitList):
   print(fruitList[i])
   i = i + 1 
-
 print('###')
 
 # loop using list comprehension 
